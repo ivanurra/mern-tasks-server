@@ -1,1 +1,1 @@
-import React from 'react';
+console.log("Hello from the other side!");
